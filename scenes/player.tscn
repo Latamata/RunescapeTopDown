@@ -1,8 +1,8 @@
 [gd_scene load_steps=14 format=3 uid="uid://b77km5v0rdrp5"]
 
-[ext_resource type="Script" uid="uid://df8i2ocg5y6yq" path="res://character_body_2d.gd" id="1_4flbx"]
-[ext_resource type="Texture2D" uid="uid://ba2w8qv3a16h6" path="res://Soldier.png" id="2_onrkg"]
-[ext_resource type="Texture2D" uid="uid://dnd7x5c7h1i7t" path="res://full_rotation_player.png" id="3_i3pqv"]
+[ext_resource type="Script" uid="uid://df8i2ocg5y6yq" path="res://scripts/character_body_2d.gd" id="1_4flbx"]
+[ext_resource type="Texture2D" uid="uid://ba2w8qv3a16h6" path="res://assets/Soldier.png" id="2_onrkg"]
+[ext_resource type="Texture2D" uid="uid://dnd7x5c7h1i7t" path="res://assets/full_rotation_player.png" id="3_i3pqv"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_onrkg"]
 

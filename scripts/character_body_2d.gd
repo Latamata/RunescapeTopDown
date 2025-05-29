@@ -53,7 +53,7 @@ func rotate_animation(reversed: bool):
 		animated_sprite_2d.frame = (animated_sprite_2d.frame - 1 + total_frames) % total_frames
 	else:
 		animated_sprite_2d.frame = (animated_sprite_2d.frame + 1) % total_frames
-	print(animated_sprite_2d.frame)
+	#print(animated_sprite_2d.frame)
 
 func run_or_walk():
 	currently_running = !currently_running

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnd7x5c7h1i7t"
-path="res://.godot/imported/full_rotation_player.png-60d70f9f2842ff90df5083d32fe3fa77.ctex"
+path="res://.godot/imported/full_rotation_player.png-df62bce5a97e62d4ad9edabcb42b8015.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://full_rotation_player.png"
-dest_files=["res://.godot/imported/full_rotation_player.png-60d70f9f2842ff90df5083d32fe3fa77.ctex"]
+source_file="res://assets/full_rotation_player.png"
+dest_files=["res://.godot/imported/full_rotation_player.png-df62bce5a97e62d4ad9edabcb42b8015.ctex"]
 
 [params]
 

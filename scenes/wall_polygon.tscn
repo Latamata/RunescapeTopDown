@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://ba1jv0i71l0s1"]
+
+[node name="wall_polygon" type="Node2D"]
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+polygon = PackedVector2Array(0, 0, 0, 40, 20, 40, 20, 0)
+uv = PackedVector2Array(0, 0, 0, 40, 40, 40, 40, 0)
